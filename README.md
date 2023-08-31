@@ -14,15 +14,6 @@ Gnutalla library and console monitor
 
 Version and contact info is after this docstring.
 
-/***************************************************************************
- *                                                                         *
- *   This program is free software; you can redistribute it and/or modify  *
- *   it under the terms of the GNU General Public License as published by  *
- *   the Free Software Foundation; either version 2 of the License, or     *
- *   (at your option) any later version.                                   *
- *                                                                         *
- ***************************************************************************/
-
 This file contains a large number of classes designed to make monitoring and
 searching the gnutella network easier, as well as a complete gnutella daemon
 for running in the background.
